@@ -30,7 +30,7 @@ CREATE TABLE teste_table AS
     AS t1(
          id integer,
          name varchar,
-    );
+    )');
 ```
 
 ## dblink_exec
